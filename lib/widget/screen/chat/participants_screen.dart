@@ -86,6 +86,11 @@ class ParticipantScreen extends StatelessWidget {
                   name: 'Kathryn Murphy',
                   micColor: Colors.red,
                   vidColor: const Color(0xFF0060FF)),
+              participantWidget(
+                  image: AppImage.kate,
+                  name: 'Kathryn Murphy',
+                  micColor: Colors.red,
+                  vidColor: const Color(0xFF0060FF)),
             ],
           ),
         ),
